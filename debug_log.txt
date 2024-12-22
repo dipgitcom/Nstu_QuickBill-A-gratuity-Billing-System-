@@ -1,0 +1,1136 @@
+Array
+(
+    [batch] => 4th
+    [term] => 1-1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [panel] => Panel 1
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [courseCode] => CSE 1101
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [1] => Array
+                                (
+                                    [courseCode] => CSE 1102
+                                    [firstExaminer] => Md.Nuruzzaman Bhuiyan
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [2] => Array
+                                (
+                                    [courseCode] => CSE 1103
+                                    [firstExaminer] => Md.Hasan Imam
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [3] => Array
+                                (
+                                    [courseCode] => STAT 1105
+                                    [firstExaminer] => Tasnim Rahman
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [4] => Array
+                                (
+                                    [courseCode] => MATH 1107
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [5] => Array
+                                (
+                                    [courseCode] => GE 1109
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [6] => Array
+                                (
+                                    [courseCode] => GE 1111
+                                    [firstExaminer] => Md.Hasan Imam
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [7] => Array
+                                (
+                                    [courseCode] => GE 1112
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [8] => Array
+                                (
+                                    [courseCode] => SE 1113
+                                    [firstExaminer] => Tasnim Rahman
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [9] => Array
+                                (
+                                    [courseCode] => CSE 1101
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [10] => Array
+                                (
+                                    [courseCode] => CSE 1102
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [11] => Array
+                                (
+                                    [courseCode] => CSE 1103
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [12] => Array
+                                (
+                                    [courseCode] => STAT 1105
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [13] => Array
+                                (
+                                    [courseCode] => MATH 1107
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [14] => Array
+                                (
+                                    [courseCode] => GE 1109
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [15] => Array
+                                (
+                                    [courseCode] => GE 1111
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [16] => Array
+                                (
+                                    [courseCode] => GE 1112
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [17] => Array
+                                (
+                                    [courseCode] => SE 1113
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [panel] => Panel 2
+                    [data] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [batch] => 4th
+    [term] => 1-1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [panel] => Panel 1
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [courseCode] => CSE 1101
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [1] => Array
+                                (
+                                    [courseCode] => CSE 1102
+                                    [firstExaminer] => Md.Nuruzzaman Bhuiyan
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [2] => Array
+                                (
+                                    [courseCode] => CSE 1103
+                                    [firstExaminer] => Md.Hasan Imam
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [3] => Array
+                                (
+                                    [courseCode] => STAT 1105
+                                    [firstExaminer] => Tasnim Rahman
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [4] => Array
+                                (
+                                    [courseCode] => MATH 1107
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [5] => Array
+                                (
+                                    [courseCode] => GE 1109
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [6] => Array
+                                (
+                                    [courseCode] => GE 1111
+                                    [firstExaminer] => Md.Hasan Imam
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [7] => Array
+                                (
+                                    [courseCode] => GE 1112
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [8] => Array
+                                (
+                                    [courseCode] => SE 1113
+                                    [firstExaminer] => Tasnim Rahman
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [9] => Array
+                                (
+                                    [courseCode] => CSE 1101
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [10] => Array
+                                (
+                                    [courseCode] => CSE 1102
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [11] => Array
+                                (
+                                    [courseCode] => CSE 1103
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [12] => Array
+                                (
+                                    [courseCode] => STAT 1105
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [13] => Array
+                                (
+                                    [courseCode] => MATH 1107
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [14] => Array
+                                (
+                                    [courseCode] => GE 1109
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [15] => Array
+                                (
+                                    [courseCode] => GE 1111
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [16] => Array
+                                (
+                                    [courseCode] => GE 1112
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [17] => Array
+                                (
+                                    [courseCode] => SE 1113
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [panel] => Panel 2
+                    [data] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [batch] => 4th
+    [term] => 1-1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [panel] => Panel 1
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [courseCode] => CSE 1101
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [1] => Array
+                                (
+                                    [courseCode] => CSE 1102
+                                    [firstExaminer] => Md.Nuruzzaman Bhuiyan
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [2] => Array
+                                (
+                                    [courseCode] => CSE 1103
+                                    [firstExaminer] => Md.Hasan Imam
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [3] => Array
+                                (
+                                    [courseCode] => STAT 1105
+                                    [firstExaminer] => Tasnim Rahman
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [4] => Array
+                                (
+                                    [courseCode] => MATH 1107
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [5] => Array
+                                (
+                                    [courseCode] => GE 1109
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [6] => Array
+                                (
+                                    [courseCode] => GE 1111
+                                    [firstExaminer] => Md.Hasan Imam
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [7] => Array
+                                (
+                                    [courseCode] => GE 1112
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [8] => Array
+                                (
+                                    [courseCode] => SE 1113
+                                    [firstExaminer] => Tasnim Rahman
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [9] => Array
+                                (
+                                    [courseCode] => CSE 1101
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [10] => Array
+                                (
+                                    [courseCode] => CSE 1102
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [11] => Array
+                                (
+                                    [courseCode] => CSE 1103
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [12] => Array
+                                (
+                                    [courseCode] => STAT 1105
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [13] => Array
+                                (
+                                    [courseCode] => MATH 1107
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [14] => Array
+                                (
+                                    [courseCode] => GE 1109
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [15] => Array
+                                (
+                                    [courseCode] => GE 1111
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [16] => Array
+                                (
+                                    [courseCode] => GE 1112
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [17] => Array
+                                (
+                                    [courseCode] => SE 1113
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [panel] => Panel 2
+                    [data] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [batch] => 4th
+    [term] => 1-1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [panel] => Panel 1
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [courseCode] => CSE 1101
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [1] => Array
+                                (
+                                    [courseCode] => CSE 1102
+                                    [firstExaminer] => Md.Nuruzzaman Bhuiyan
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [2] => Array
+                                (
+                                    [courseCode] => CSE 1103
+                                    [firstExaminer] => Md.Hasan Imam
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [3] => Array
+                                (
+                                    [courseCode] => STAT 1105
+                                    [firstExaminer] => Tasnim Rahman
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [4] => Array
+                                (
+                                    [courseCode] => MATH 1107
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [5] => Array
+                                (
+                                    [courseCode] => GE 1109
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [6] => Array
+                                (
+                                    [courseCode] => GE 1111
+                                    [firstExaminer] => Md.Hasan Imam
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [7] => Array
+                                (
+                                    [courseCode] => GE 1112
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [8] => Array
+                                (
+                                    [courseCode] => SE 1113
+                                    [firstExaminer] => Tasnim Rahman
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [9] => Array
+                                (
+                                    [courseCode] => CSE 1101
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [10] => Array
+                                (
+                                    [courseCode] => CSE 1102
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [11] => Array
+                                (
+                                    [courseCode] => CSE 1103
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [12] => Array
+                                (
+                                    [courseCode] => STAT 1105
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [13] => Array
+                                (
+                                    [courseCode] => MATH 1107
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [14] => Array
+                                (
+                                    [courseCode] => GE 1109
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [15] => Array
+                                (
+                                    [courseCode] => GE 1111
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [16] => Array
+                                (
+                                    [courseCode] => GE 1112
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [17] => Array
+                                (
+                                    [courseCode] => SE 1113
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [panel] => Panel 2
+                    [data] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [batch] => 4th
+    [term] => 1-1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [panel] => Panel 1
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [courseCode] => CSE 1101
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [1] => Array
+                                (
+                                    [courseCode] => CSE 1102
+                                    [firstExaminer] => Md.Nuruzzaman Bhuiyan
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [2] => Array
+                                (
+                                    [courseCode] => CSE 1103
+                                    [firstExaminer] => Md.Hasan Imam
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [3] => Array
+                                (
+                                    [courseCode] => STAT 1105
+                                    [firstExaminer] => Tasnim Rahman
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [4] => Array
+                                (
+                                    [courseCode] => MATH 1107
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [5] => Array
+                                (
+                                    [courseCode] => GE 1109
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [6] => Array
+                                (
+                                    [courseCode] => GE 1111
+                                    [firstExaminer] => Md.Hasan Imam
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [7] => Array
+                                (
+                                    [courseCode] => GE 1112
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [8] => Array
+                                (
+                                    [courseCode] => SE 1113
+                                    [firstExaminer] => Tasnim Rahman
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [9] => Array
+                                (
+                                    [courseCode] => CSE 1101
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [10] => Array
+                                (
+                                    [courseCode] => CSE 1102
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [11] => Array
+                                (
+                                    [courseCode] => CSE 1103
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [12] => Array
+                                (
+                                    [courseCode] => STAT 1105
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [13] => Array
+                                (
+                                    [courseCode] => MATH 1107
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [14] => Array
+                                (
+                                    [courseCode] => GE 1109
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [15] => Array
+                                (
+                                    [courseCode] => GE 1111
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [16] => Array
+                                (
+                                    [courseCode] => GE 1112
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                            [17] => Array
+                                (
+                                    [courseCode] => SE 1113
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [external] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [panel] => Panel 2
+                    [data] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Array
+(
+    [batch] => 4th
+    [term] => 1-1
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [panel] => Panel 1
+                    [data] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [courseCode] => CSE 1101
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [1] => Array
+                                (
+                                    [courseCode] => CSE 1102
+                                    [firstExaminer] => Md.Nuruzzaman Bhuiyan
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [2] => Array
+                                (
+                                    [courseCode] => CSE 1103
+                                    [firstExaminer] => Md.Hasan Imam
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [3] => Array
+                                (
+                                    [courseCode] => STAT 1105
+                                    [firstExaminer] => Tasnim Rahman
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [4] => Array
+                                (
+                                    [courseCode] => MATH 1107
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [5] => Array
+                                (
+                                    [courseCode] => GE 1109
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [6] => Array
+                                (
+                                    [courseCode] => GE 1111
+                                    [firstExaminer] => Md.Hasan Imam
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [7] => Array
+                                (
+                                    [courseCode] => GE 1112
+                                    [firstExaminer] => Falguni Roy
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [8] => Array
+                                (
+                                    [courseCode] => SE 1113
+                                    [firstExaminer] => Tasnim Rahman
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [9] => Array
+                                (
+                                    [courseCode] => CSE 1101
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [10] => Array
+                                (
+                                    [courseCode] => CSE 1102
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [11] => Array
+                                (
+                                    [courseCode] => CSE 1103
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [12] => Array
+                                (
+                                    [courseCode] => STAT 1105
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [13] => Array
+                                (
+                                    [courseCode] => MATH 1107
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [14] => Array
+                                (
+                                    [courseCode] => GE 1109
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [15] => Array
+                                (
+                                    [courseCode] => GE 1111
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [16] => Array
+                                (
+                                    [courseCode] => GE 1112
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                            [17] => Array
+                                (
+                                    [courseCode] => SE 1113
+                                    [firstExaminer] => Dipok Chandra Das
+                                    [secondExaminer] => 
+                                    [thirdExaminer] => 
+                                    [externalExaminer] => 
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [panel] => Panel 2
+                    [data] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+)
+Raw input: batch=4th&term=1-1
+Decoded data: 

@@ -1,0 +1,91 @@
+
+!define Table(name, fields) class name {
+    fields
+}
+
+entity "Users" as Users {
+    * user_id : INT <<PK>>
+    --
+    name : VARCHAR(100)
+    email : VARCHAR(100) <<UNIQUE>>
+    password : VARCHAR(255)
+    role : ENUM('Admin', 'Director', 'Registrar', 'DAA', 'Exam Controller', 'Treasurer', 'VC', 'User')
+    designation : VARCHAR(100)
+    profile_image : VARCHAR(255)
+    created_at : TIMESTAMP
+    updated_at : TIMESTAMP
+}
+
+entity "Batch_and_Term" as Batch_and_Term {
+    * batch_id : INT <<PK>>
+    --
+    batch_name : VARCHAR(50)
+    term : ENUM('1-1', '1-2', '2-1', '2-2', '3-1', '3-2', '4-1', '4-2')
+}
+
+entity "Courses" as Courses {
+    * course_id : INT <<PK>>
+    --
+    course_code : VARCHAR(20)
+    course_name : VARCHAR(100)
+    term_id : INT <<FK>>
+}
+
+entity "Bills" as Bills {
+    * bill_id : INT <<PK>>
+    --
+    user_id : INT <<FK>>
+    bill_type : ENUM('Exam', 'Travel', 'Maintenance', 'Salary', 'Other')
+    amount : DECIMAL(10, 2)
+    status : ENUM('Pending', 'Approved', 'Rejected')
+    current_stage : ENUM('Director', 'Registrar', 'DAA', 'Exam Controller', 'Treasurer', 'VC')
+    created_at : TIMESTAMP
+    updated_at : TIMESTAMP
+}
+
+entity "Exam_Panel" as Exam_Panel {
+    * panel_id : INT <<PK>>
+    --
+    course_id : INT <<FK>>
+    first_examiner : INT <<FK>>
+    second_examiner : INT <<FK>>
+    third_examiner : INT <<FK>>
+    fourth_examiner : INT <<FK>>
+}
+
+entity "Bill_History" as Bill_History {
+    * history_id : INT <<PK>>
+    --
+    bill_id : INT <<FK>>
+    stage : ENUM('Director', 'Registrar', 'DAA', 'Exam Controller', 'Treasurer', 'VC')
+    status : ENUM('Approved', 'Rejected')
+    comments : TEXT
+    verified_at : TIMESTAMP
+}
+
+entity "Notifications" as Notifications {
+    * notification_id : INT <<PK>>
+    --
+    user_id : INT <<FK>>
+    message : TEXT
+    is_read : BOOLEAN
+    created_at : TIMESTAMP
+}
+
+entity "Attachments" as Attachments {
+    * attachment_id : INT <<PK>>
+    --
+    bill_id : INT <<FK>>
+    file_path : VARCHAR(255)
+    uploaded_at : TIMESTAMP
+}
+
+' Relationships
+Users ||--o{ Bills : "user_id"
+Batch_and_Term ||--o{ Courses : "term_id"
+Courses ||--o{ Exam_Panel : "course_id"
+Bills ||--o{ Bill_History : "bill_id"
+Bills ||--o{ Attachments : "bill_id"
+Users ||--o{ Exam_Panel : "examiner (multiple)"
+Users ||--o{ Notifications : "user_id"
+@enduml
