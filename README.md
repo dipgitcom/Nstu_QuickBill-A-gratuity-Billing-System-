@@ -3,6 +3,7 @@
 ## Introduction
 
 Full Details Project Structure here - https://github.com/IIT-NSTU/Nstu_QuickBill-A-gratuity-Billing-System-.git
+SRS LInk : https://github.com/IIT-NSTU/Nstu_QuickBill-A-gratuity-Billing-System-/blob/main/NSTU_QuickBill_SRS_final.docx
 
 NSTU-QuickBill is a web-based bill management and tracking system designed for Noakhali Science and Technology University (NSTU). The system aims to streamline administrative tasks by automating the process of bill creation, tracking, verification, and approval. This solution replaces the traditional manual system, reducing errors and improving efficiency. With a user-friendly interface, stakeholders across various departments (Director, Registrar Office, DAA Office, Exam Controller, Treasurer, VC) can seamlessly manage and monitor the status of bills at every stage.
 
